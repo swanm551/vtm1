@@ -279,7 +279,7 @@
     @media screen and (max-width: 768px) {
         .logo { height: 32px; }
         .header h1 { font-size: 24px; }
-        .opening-hours { font-size: 8px; }
+        
         .sheets-table { font-size: 12px; }
         .sheets-table th { 
             font-size: 16px; 
@@ -384,7 +384,7 @@
         </b:widget-settings>
         <b:includable id='main' var='this'>
       <main class='main-content'>
-        <div class='opening-hours'>Open hours: 9AM to 9PM</div>
+        
         <div class='table-wrapper'>
           <div id='ratesContainer'>
             <!-- Table will be populated via JavaScript -->
